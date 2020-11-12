@@ -8,7 +8,7 @@
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error deserunt exercitationem harum, consectetur quaerat eum et nihil ducimus quis corporis, blanditiis architecto modi alias deleniti necessitatibus earum voluptatibus eaque amet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error deserunt exercitationem harum, consectetur quaerat eum et nihil ducimus quis corporis, blanditiis architecto modi alias deleniti necessitatibus earum voluptatibus eaque amet.</p>
       </div>
     </div>
-    <v-parallax id="parallax" src="https://www.plantbasednews.org/.image/t_share/MTY2MzA0OTcwOTg1OTczMzkw/leather.jpg" height="400" class="mt-5">
+    <v-parallax id="parallax" src="https://sourcingjournal.com/wp-content/uploads/2019/09/leather.jpg" height="500" class="mt-5">
       <div class="parallaxCont">
         <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam necessitatibus dolor sit, blanditiis officia earum delectus voluptatem distinctio quas harum. Excepturi illum accusantium quisquam velit sed magnam quis temporibus repudiandae!</p>
       </div>
